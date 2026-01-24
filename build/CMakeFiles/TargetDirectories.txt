@@ -1,0 +1,5 @@
+/home/mensah/Robot6/RobotSimulation/RobotSimulation/build/CMakeFiles/robot_simulation.dir
+/home/mensah/Robot6/RobotSimulation/RobotSimulation/build/CMakeFiles/clean-all.dir
+/home/mensah/Robot6/RobotSimulation/RobotSimulation/build/CMakeFiles/run.dir
+/home/mensah/Robot6/RobotSimulation/RobotSimulation/build/CMakeFiles/edit_cache.dir
+/home/mensah/Robot6/RobotSimulation/RobotSimulation/build/CMakeFiles/rebuild_cache.dir
