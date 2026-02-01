@@ -2,8 +2,7 @@
 
 ## Projet de Programmation C++ - 2025
 
-**Cours:** Programmation C++ - Joaquin Rodriguez  
-**Date limite:** 1er décembre 2025 à 12h34
+**Cours:** Programmation C++
 
 ---
 
